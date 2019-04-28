@@ -3,7 +3,7 @@ Hash.new
 end
 
 def actor
-
+{
 end
 
 def monopoly
